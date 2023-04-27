@@ -1,0 +1,54 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "contactList": [
+    {
+      "number": "45454",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [],
+      "logged": false,
+      "validationFailures": []
+    }
+  ],
+  "messages": [
+    {
+      "longMessage": "hfghgf",
+      "files": [],
+      "buttons": [
+        {
+          "id": "27ee4dc5-bb77-41ed-983a-8e44d0dde98e",
+          "text": "test",
+          "url": null,
+          "phoneNumber": null,
+          "editMode": false,
+          "buttonTypeEnum": 2
+        }
+      ],
+      "validationFailures": []
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 10,
+    "delayAfterMessagesFrom": 10,
+    "delayAfterMessagesTo": 20,
+    "delayAfterEveryMessageFrom": 4,
+    "delayAfterEveryMessageTo": 8,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": []
+}

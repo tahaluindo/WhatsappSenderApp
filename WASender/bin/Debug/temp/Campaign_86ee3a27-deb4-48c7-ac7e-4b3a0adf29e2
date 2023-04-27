@@ -1,0 +1,88 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "contactList": [
+    {
+      "number": "919518575795",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "919763641790",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "918650213054",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [],
+      "logged": false,
+      "validationFailures": []
+    }
+  ],
+  "messages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 10,
+    "delayAfterMessagesFrom": 10,
+    "delayAfterMessagesTo": 20,
+    "delayAfterEveryMessageFrom": 4,
+    "delayAfterEveryMessageTo": 8,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": [
+    {
+      "PropertyName": "",
+      "ErrorMessage": "Please Enter A message ",
+      "AttemptedValue": 0,
+      "CustomState": null,
+      "Severity": 0,
+      "ErrorCode": "GreaterThanValidator",
+      "FormattedMessageArguments": [],
+      "FormattedMessagePlaceholderValues": {
+        "ComparisonValue": 0,
+        "ComparisonProperty": "",
+        "PropertyName": null,
+        "PropertyValue": 0
+      },
+      "ResourceName": null
+    }
+  ]
+}

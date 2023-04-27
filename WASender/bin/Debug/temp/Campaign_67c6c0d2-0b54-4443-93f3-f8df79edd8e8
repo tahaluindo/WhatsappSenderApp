@@ -1,0 +1,134 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "contactList": [
+    {
+      "number": "919518575795",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "919763641790",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "918650213054",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    }
+  ],
+  "messages": [
+    {
+      "longMessage": "test message\r\n\r\ntest",
+      "files": [
+        {
+          "filePath": "C:\\Users\\Admin\\Pictures\\10024_cover_big.jpg",
+          "Caption": "test caption"
+        },
+        {
+          "filePath": "C:\\Users\\Admin\\Pictures\\RE4wtd8.jpg",
+          "Caption": "another\r\ntest caption"
+        }
+      ],
+      "buttons": [
+        {
+          "id": "7bb904a0-eef7-49a4-9481-8f33af68b4b7",
+          "text": "button1",
+          "url": null,
+          "phoneNumber": null,
+          "editMode": false,
+          "buttonTypeEnum": 2
+        },
+        {
+          "id": "c40f5968-64c7-4c0f-b18c-7615b401ea24",
+          "text": "link",
+          "url": "http://whatsapp.com",
+          "phoneNumber": null,
+          "editMode": false,
+          "buttonTypeEnum": 0
+        }
+      ],
+      "validationFailures": []
+    },
+    {
+      "longMessage": "second message",
+      "files": [],
+      "buttons": [
+        {
+          "id": "d3473dc2-d278-44d6-a0e2-7f4851d28e9c",
+          "text": "test t b 2",
+          "url": null,
+          "phoneNumber": null,
+          "editMode": false,
+          "buttonTypeEnum": 2
+        },
+        {
+          "id": "4b7f2269-7f90-4d3d-957e-979088ea8857",
+          "text": "test t b 3",
+          "url": null,
+          "phoneNumber": null,
+          "editMode": false,
+          "buttonTypeEnum": 2
+        }
+      ],
+      "validationFailures": []
+    },
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 9,
+    "delayAfterMessagesFrom": 1,
+    "delayAfterMessagesTo": 2,
+    "delayAfterEveryMessageFrom": 1,
+    "delayAfterEveryMessageTo": 2,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": []
+}

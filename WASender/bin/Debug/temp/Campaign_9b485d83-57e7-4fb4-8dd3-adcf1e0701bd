@@ -1,0 +1,48 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "contactList": [],
+  "messages": [
+    {
+      "longMessage": "sdfsdf",
+      "files": [],
+      "buttons": [],
+      "validationFailures": []
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 10,
+    "delayAfterMessagesFrom": 10,
+    "delayAfterMessagesTo": 20,
+    "delayAfterEveryMessageFrom": 4,
+    "delayAfterEveryMessageTo": 8,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": [
+    {
+      "PropertyName": "contactList.Count",
+      "ErrorMessage": "Please add at least one Contact in list",
+      "AttemptedValue": 0,
+      "CustomState": null,
+      "Severity": 0,
+      "ErrorCode": "GreaterThanValidator",
+      "FormattedMessageArguments": [],
+      "FormattedMessagePlaceholderValues": {
+        "ComparisonValue": 0,
+        "ComparisonProperty": "",
+        "PropertyName": "contact List. Count",
+        "PropertyValue": 0
+      },
+      "ResourceName": null
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "contactList": [
+    {
+      "number": "919518575795",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "919763641790",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    },
+    {
+      "number": "918650213054",
+      "name": "",
+      "sendStatusModel": {
+        "dateTime": null,
+        "sendStatusEnum": 0,
+        "isDone": false,
+        "IsSuccess": false
+      },
+      "parameterModelList": [
+        {
+          "ParameterName": "Name",
+          "ParameterValue": ""
+        }
+      ],
+      "logged": false,
+      "validationFailures": []
+    }
+  ],
+  "messages": [
+    {
+      "longMessage": "test message\r\n\r\ntest",
+      "files": [
+        {
+          "filePath": "C:\\Users\\Admin\\Pictures\\10024_cover_big.jpg",
+          "Caption": "test caption"
+        },
+        {
+          "filePath": "C:\\Users\\Admin\\Pictures\\RE4wtd8.jpg",
+          "Caption": "another\r\ntest caption"
+        }
+      ],
+      "buttons": [],
+      "validationFailures": []
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 10,
+    "delayAfterMessagesFrom": 10,
+    "delayAfterMessagesTo": 20,
+    "delayAfterEveryMessageFrom": 4,
+    "delayAfterEveryMessageTo": 8,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": []
+}

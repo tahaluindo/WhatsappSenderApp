@@ -1,0 +1,59 @@
+{
+  "Id": 0,
+  "CampaignName": null,
+  "MessageSendingType": 0,
+  "groupList": [],
+  "messages": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "settings": {
+    "delayAfterMessages": 10,
+    "delayAfterMessagesFrom": 10,
+    "delayAfterMessagesTo": 20,
+    "delayAfterEveryMessageFrom": 4,
+    "delayAfterEveryMessageTo": 8,
+    "minGroupMembers": 0,
+    "typingSpeedFrom": 0,
+    "typingSpeedTo": 0,
+    "validationFailures": []
+  },
+  "campaignStatusEnum": 0,
+  "validationFailures": [
+    {
+      "PropertyName": "groupList.Count",
+      "ErrorMessage": "Please add at least one Group in list",
+      "AttemptedValue": 0,
+      "CustomState": null,
+      "Severity": 0,
+      "ErrorCode": "GreaterThanValidator",
+      "FormattedMessageArguments": [],
+      "FormattedMessagePlaceholderValues": {
+        "ComparisonValue": 0,
+        "ComparisonProperty": "",
+        "PropertyName": "group List. Count",
+        "PropertyValue": 0
+      },
+      "ResourceName": null
+    },
+    {
+      "PropertyName": "",
+      "ErrorMessage": "Please Enter A message ",
+      "AttemptedValue": 0,
+      "CustomState": null,
+      "Severity": 0,
+      "ErrorCode": "GreaterThanValidator",
+      "FormattedMessageArguments": [],
+      "FormattedMessagePlaceholderValues": {
+        "ComparisonValue": 0,
+        "ComparisonProperty": "",
+        "PropertyName": null,
+        "PropertyValue": 0
+      },
+      "ResourceName": null
+    }
+  ]
+}
